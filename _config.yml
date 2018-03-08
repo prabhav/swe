@@ -42,6 +42,7 @@ exclude:
 - Gemfile
 - Gemfile.lock
 - LICENSE
+destination: "~/public_html"
 sponsor_logos:
 - "/uploads/SWE_Full_Master_Brand_COLOR.png"
 - "/uploads/SWE_Full_Master_Brand_COLOR.png"
